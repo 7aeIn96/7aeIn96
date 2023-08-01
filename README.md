@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SpringBoot Board](https://github.com/7aeIn96/springBoard)
 
-- 🌱 I’m currently learning **SpringBoot, Thymeleaf, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript, SpringBoot**
 
 - 📫 How to reach me **xodls713@gmail.com**
 
